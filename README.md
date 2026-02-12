@@ -14,5 +14,3 @@
 1. `main`以外のブランチを削除
 2. `main`の`User(数字)Service.java`の`name`と`birthplace`と`school`の変数値を`""`(空文字に)する
 3. コミットしプッシュ
-
-test635
