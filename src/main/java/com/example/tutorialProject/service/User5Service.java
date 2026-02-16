@@ -7,9 +7,9 @@ import java.util.Objects;
 
 @Service
 public class User5Service {
-    String name = " ";
-    String birthplace = " ";
-    String school = " ";
+    String name = "片田莉菜";
+    String birthplace ="佐賀県鳥栖市";
+    String school = "久留米高専";
 
     public void user5(List<String> Users) {
         if (!Objects.equals(name, "")) {
